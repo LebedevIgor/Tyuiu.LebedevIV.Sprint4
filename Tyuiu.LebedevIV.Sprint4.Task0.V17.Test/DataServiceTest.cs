@@ -11,11 +11,10 @@ namespace Tyuiu.LebedevIV.Sprint4.Task0.V17.Test
         public void GetSumEvenArrEl()
         {
             DataService ds = new DataService();
-            int[] numArray = { 4, 8, 7, 6, 5, 8, 2, 4, 3, 2 };
+            int[] numArray = { 6, 6, 9, 6, 9, 3, 8, 2, 9, 5, 7, 4 };
             int res = ds.GetSumEvenArrEl(numArray);
-            int wait = 34;
+            int wait = 32;
             Assert.AreEqual(wait, res);
-
         }
     }
 }
