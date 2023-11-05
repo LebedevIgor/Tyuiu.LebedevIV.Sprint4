@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6746906C-41D8-4D78-AC61-5AB86F90F0B4}</ProjectGuid>
+    <ProjectGuid>{706771F4-0BCF-40A2-B5D1-5E9A4847A345}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.LebedevIV.Sprint4.Task1.V19.Test</RootNamespace>
-    <AssemblyName>Tyuiu.LebedevIV.Sprint4.Task1.V19.Test</AssemblyName>
+    <RootNamespace>Tyuiu.LebedevIV.Sprint4.Task2.V8.Test</RootNamespace>
+    <AssemblyName>Tyuiu.LebedevIV.Sprint4.Task2.V8.Test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
